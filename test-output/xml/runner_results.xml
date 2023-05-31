@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Resolver_Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.214">
+    <properties></properties>
+
+
+
+            <testcase
+                name="executeTest5"
+                time="10.513"
+                classname="runner">
+            </testcase>
+            <testcase
+                name="executeTest4"
+                time="0.050"
+                classname="runner">
+            </testcase>
+            <testcase
+                name="executeTest6"
+                time="0.041"
+                classname="runner">
+            </testcase>
+            <testcase
+                name="executeTest3"
+                time="0.245"
+                classname="runner">
+            </testcase>
+            <testcase
+                name="executeTest1"
+                time="0.290"
+                classname="runner">
+            </testcase>
+            <testcase
+                name="executeTest2"
+                time="0.075"
+                classname="runner">
+            </testcase>
+</testsuite>

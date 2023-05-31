@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Resolver_Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.515">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Test1"
+                time="0.515"
+                classname="tc1">
+            </testcase>
+</testsuite>
